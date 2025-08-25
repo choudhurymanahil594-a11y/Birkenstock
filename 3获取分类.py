@@ -27,7 +27,8 @@ async def scrape_categories(initial_url):
             else:
                 print(f"找到 {len(first_level_category_elements)} 个一级分类。")
                 for i, first_level_element in enumerate(first_level_category_elements):
-                    first_level_title = await first_level_element.text_content()
+                    first_level_title_element = await first_level_element.query_selector('span.link-inner')
+                    first_level_title = await first_level_title_element.text_content() if first_level_title_element else ""
                     first_level_href = await first_level_element.get_attribute('href')
                     
                     if not first_level_title or not first_level_href:
@@ -111,5 +112,5 @@ async def scrape_categories(initial_url):
             await browser.close()
 
 if __name__ == "__main__":
-    categories_page_url = 'https://www.birkenstock.com/sg/' 
+    categories_page_url = 'https://www.birkenstock.com/us/' 
     asyncio.run(scrape_categories(categories_page_url))

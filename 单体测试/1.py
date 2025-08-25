@@ -96,13 +96,22 @@ async def scrape_product_details(page, url):
     }
 
     # 检查是否有N/A字段或空的图片URL
-    if product_data['title'] == 'N/A' or \
-       product_data['width'] == 'N/A' or \
-       product_data['color'] == 'N/A' or \
-       product_data['price'] == 'N/A' or \
-       product_data['description'] == 'N/A' or \
-       not product_data['image_urls']:
-        print(f"警告: URL {url} 缺少关键数据。请检查规则。")
+    missing_fields = []
+    if product_data['title'] == 'N/A':
+        missing_fields.append('title')
+    if product_data['width'] == 'N/A':
+        missing_fields.append('width')
+    if product_data['color'] == 'N/A':
+        missing_fields.append('color')
+    if product_data['price'] == 'N/A':
+        missing_fields.append('price')
+    if product_data['description'] == 'N/A':
+        missing_fields.append('description')
+    if not product_data['image_urls']:
+        missing_fields.append('image_urls')
+
+    if missing_fields:
+        print(f"警告: URL {url} 缺少关键数据: {', '.join(missing_fields)}。请检查规则。")
         return None
     
     return product_data
@@ -193,5 +202,5 @@ async def main(initial_url):
             await browser.close()
 
 if __name__ == "__main__":
-    initial_product_url = 'https://www.birkenstock.com/sg/arizona-birko-flor-birkibuc/arizona-core-birkoflornubuck-0-eva-u_328.html'
+    initial_product_url = 'https://www.birkenstock.com/us/deluxe-shoe-care-kit/birkenstock-shoecare-deluxe-shoe-care-kit.html?dwvar_birkenstock-shoecare-deluxe-shoe-care-kit_color=11209'
     asyncio.run(main(initial_product_url))
