@@ -1,0 +1,949 @@
+[
+  {
+    "level1_category": "What's New",
+    "level1_url": "https://www.birkenstock.com/us/new-arrivals/",
+    "children": [
+      {
+        "level2_category": "The Latest",
+        "level2_url": "https://www.birkenstock.com/us/campaign/new-arrivals/",
+        "children": [
+          {
+            "level3_category": "Virtual Try On",
+            "level3_url": "https://www.birkenstock.com/us/virtual-try-on/"
+          },
+          {
+            "level3_category": "Fall Collection",
+            "level3_url": "https://www.birkenstock.com/us/campaign/fall-collection/"
+          },
+          {
+            "level3_category": "Back to School",
+            "level3_url": "https://www.birkenstock.com/us/campaign/back-to-school/"
+          },
+          {
+            "level3_category": "Foot Care Essentials",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/"
+          },
+          {
+            "level3_category": "The Buckle Shop",
+            "level3_url": "https://www.birkenstock.com/us/campaign/bucklecollection/"
+          },
+          {
+            "level3_category": "Socks & Stocks",
+            "level3_url": "https://www.birkenstock.com/us/socks-and-stocks/"
+          },
+          {
+            "level3_category": "Exclusively Ours",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/online-exclusives/"
+          },
+          {
+            "level3_category": "Shop All New Arrivals",
+            "level3_url": "https://www.birkenstock.com/us/campaign/new-arrivals/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Most Wanted",
+        "level2_url": "https://www.birkenstock.com/us/campaign/best-sellers/",
+        "children": [
+          {
+            "level3_category": "Arizona",
+            "level3_url": "https://www.birkenstock.com/us/styles/arizona/"
+          },
+          {
+            "level3_category": "Boston",
+            "level3_url": "https://www.birkenstock.com/us/styles/boston/"
+          },
+          {
+            "level3_category": "Florida",
+            "level3_url": "https://www.birkenstock.com/us/styles/florida/"
+          },
+          {
+            "level3_category": "Bend",
+            "level3_url": "https://www.birkenstock.com/us/styles/bend/"
+          },
+          {
+            "level3_category": "Tokio",
+            "level3_url": "https://www.birkenstock.com/us/styles/tokio/"
+          },
+          {
+            "level3_category": "Buckley",
+            "level3_url": "https://www.birkenstock.com/us/styles/buckley/"
+          },
+          {
+            "level3_category": "Mayari",
+            "level3_url": "https://www.birkenstock.com/us/styles/mayari/"
+          },
+          {
+            "level3_category": "Gizeh",
+            "level3_url": "https://www.birkenstock.com/us/styles/gizeh/"
+          },
+          {
+            "level3_category": "Madrid",
+            "level3_url": "https://www.birkenstock.com/us/styles/madrid/"
+          },
+          {
+            "level3_category": "Kyoto",
+            "level3_url": "https://www.birkenstock.com/us/styles/kyoto/"
+          },
+          {
+            "level3_category": "Shop Best-Sellers",
+            "level3_url": "https://www.birkenstock.com/us/campaign/best-sellers/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Shop By Category",
+        "level2_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/",
+        "children": [
+          {
+            "level3_category": "Big Buckle",
+            "level3_url": "https://www.birkenstock.com/us/big-buckle-collection/"
+          },
+          {
+            "level3_category": "Sandals",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/sandals/"
+          },
+          {
+            "level3_category": "Water-friendly",
+            "level3_url": "https://www.birkenstock.com/us/eva-sandals/"
+          },
+          {
+            "level3_category": "Clogs",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/clogs/"
+          },
+          {
+            "level3_category": "Boots",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/boots/"
+          },
+          {
+            "level3_category": "Shearling",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/shearling/"
+          },
+          {
+            "level3_category": "Sneakers",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/sneakers/"
+          },
+          {
+            "level3_category": "Shoes",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/shoes/"
+          },
+          {
+            "level3_category": "Outdoor",
+            "level3_url": "https://www.birkenstock.com/us/campaign/outdoor-collection/"
+          },
+          {
+            "level3_category": "Wedges & Platforms",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/wedges-platforms/"
+          },
+          {
+            "level3_category": "Soft Footbed",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/soft-footbed/"
+          },
+          {
+            "level3_category": "Run Recovery",
+            "level3_url": "https://www.birkenstock.com/us/campaigns/runners/"
+          },
+          {
+            "level3_category": "Product Sets",
+            "level3_url": "https://www.birkenstock.com/us/product-sets/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Shop By Color",
+        "level2_url": "https://www.birkenstock.com/us/whats-new/the-latest/discover-summer-color/",
+        "children": [
+          {
+            "level3_category": "Red",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/red/"
+          },
+          {
+            "level3_category": "Orange",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/orange/"
+          },
+          {
+            "level3_category": "Green",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/green/"
+          },
+          {
+            "level3_category": "Blue",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/blue/"
+          },
+          {
+            "level3_category": "Purple",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/purple/"
+          },
+          {
+            "level3_category": "Pink",
+            "level3_url": "https://www.birkenstock.com/us/color-trend-pink/"
+          },
+          {
+            "level3_category": "White",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/white/"
+          },
+          {
+            "level3_category": "Gray",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/gray/"
+          },
+          {
+            "level3_category": "Neutral",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/shop-by-color/neutral/"
+          },
+          {
+            "level3_category": "Discover Summer Colors",
+            "level3_url": "https://www.birkenstock.com/us/whats-new/the-latest/discover-summer-color/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Last Chance",
+        "level2_url": "https://www.birkenstock.com/us/trending/last-chance/",
+        "children": [
+          {
+            "level3_category": "Women",
+            "level3_url": "https://www.birkenstock.com/us/women/last-chance/"
+          },
+          {
+            "level3_category": "Men",
+            "level3_url": "https://www.birkenstock.com/us/men/last-chance/"
+          },
+          {
+            "level3_category": "Shop All Last Chance",
+            "level3_url": "https://www.birkenstock.com/us/trending/last-chance/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level1_category": "The Clogs Edit",
+    "level1_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/clogs/",
+    "children": [
+      {
+        "level2_category": "Women's Clogs",
+        "level2_url": "https://www.birkenstock.com/us/women/shoes/clogs/",
+        "children": [
+          {
+            "level3_category": "Suede Clogs",
+            "level3_url": "https://www.birkenstock.com/us/womens-suede-clogs/"
+          },
+          {
+            "level3_category": "Leather Clogs",
+            "level3_url": "https://www.birkenstock.com/us/womens-leather-clogs/"
+          },
+          {
+            "level3_category": "Shearling Clogs",
+            "level3_url": "https://www.birkenstock.com/us/womens-shearling-clogs/"
+          },
+          {
+            "level3_category": "Gardening Clogs",
+            "level3_url": "https://www.birkenstock.com/us/women/professional/gardening/"
+          },
+          {
+            "level3_category": "Platform Clogs",
+            "level3_url": "https://www.birkenstock.com/us/womens-platform-clogs/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Men's Clogs",
+        "level2_url": "https://www.birkenstock.com/us/men/shoes/clogs/",
+        "children": [
+          {
+            "level3_category": "Suede Clogs",
+            "level3_url": "https://www.birkenstock.com/us/mens-suede-clogs/"
+          },
+          {
+            "level3_category": "Leather Clogs",
+            "level3_url": "https://www.birkenstock.com/us/mens-leather-clogs/"
+          },
+          {
+            "level3_category": "Shearling Clogs",
+            "level3_url": "https://www.birkenstock.com/us/mens-shearling-clogs/"
+          },
+          {
+            "level3_category": "Gardening Clogs",
+            "level3_url": "https://www.birkenstock.com/us/men/professional/gardening/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Shearling Clogs",
+        "level2_url": "https://www.birkenstock.com/us/campaign/shearling-clogs/",
+        "children": []
+      },
+      {
+        "level2_category": "Shop All Clogs",
+        "level2_url": "https://www.birkenstock.com/us/whats-new/shop-by-category/clogs/",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level1_category": "Women",
+    "level1_url": "https://www.birkenstock.com/us/women/",
+    "children": [
+      {
+        "level2_category": "New for Women",
+        "level2_url": "https://www.birkenstock.com/us/women/new-for-women/",
+        "children": [
+          {
+            "level3_category": "Last Chance",
+            "level3_url": "https://www.birkenstock.com/us/trending/last-chance/women/"
+          },
+          {
+            "level3_category": "Foot Care Essentials",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/"
+          },
+          {
+            "level3_category": "Run Recovery",
+            "level3_url": "https://www.birkenstock.com/us/campaigns/runners/"
+          },
+          {
+            "level3_category": "Big Buckle Styles",
+            "level3_url": "https://www.birkenstock.com/us/big-buckle-collection/"
+          },
+          {
+            "level3_category": "Shop All New Arrivals",
+            "level3_url": "https://www.birkenstock.com/us/women/new-for-women/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Sandals",
+        "level2_url": "https://www.birkenstock.com/us/women/sandals/",
+        "children": [
+          {
+            "level3_category": "Thong",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/thong/"
+          },
+          {
+            "level3_category": "One-strap",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/one-strap/"
+          },
+          {
+            "level3_category": "Two-strap",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/two-strap/"
+          },
+          {
+            "level3_category": "Multi-strap",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/multi-strap/"
+          },
+          {
+            "level3_category": "Wedges & Platforms",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/wedge-platform/"
+          },
+          {
+            "level3_category": "Back/Ankle-strap",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/back-ankle-strap/"
+          },
+          {
+            "level3_category": "Water-friendly",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/water-friendly/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/women/sandals/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Shoes",
+        "level2_url": "https://www.birkenstock.com/us/women/shoes/",
+        "children": [
+          {
+            "level3_category": "Clogs",
+            "level3_url": "https://www.birkenstock.com/us/women/shoes/clogs/"
+          },
+          {
+            "level3_category": "Sneakers",
+            "level3_url": "https://www.birkenstock.com/us/women/shoes/sneakers/"
+          },
+          {
+            "level3_category": "Ballet Flats",
+            "level3_url": "https://www.birkenstock.com/us/women/shoes/flats/"
+          },
+          {
+            "level3_category": "Boots",
+            "level3_url": "https://www.birkenstock.com/us/women/shoes/boots/"
+          },
+          {
+            "level3_category": "Low shoes",
+            "level3_url": "https://www.birkenstock.com/us/women/shoes/low-shoes/"
+          },
+          {
+            "level3_category": "Lace-up shoes",
+            "level3_url": "https://www.birkenstock.com/us/women/shoes/lace-up-shoes/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/women/shoes/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Wedges & Platforms",
+        "level2_url": "https://www.birkenstock.com/us/women/wedges-platforms/",
+        "children": [
+          {
+            "level3_category": "Chunky Platforms",
+            "level3_url": "https://www.birkenstock.com/us/women/wedges/chunky-platforms/"
+          },
+          {
+            "level3_category": "Platforms",
+            "level3_url": "https://www.birkenstock.com/us/women/wedges/platforms/"
+          },
+          {
+            "level3_category": "Wedges",
+            "level3_url": "https://www.birkenstock.com/us/women/wedges/"
+          },
+          {
+            "level3_category": "Sandals",
+            "level3_url": "https://www.birkenstock.com/us/women/wedges/sandals/"
+          },
+          {
+            "level3_category": "Boots",
+            "level3_url": "https://www.birkenstock.com/us/women/wedges/boots/"
+          },
+          {
+            "level3_category": "Clogs",
+            "level3_url": "https://www.birkenstock.com/us/women/wedges/clogs/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/women/wedges-platforms/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Accessories",
+        "level2_url": "https://www.birkenstock.com/us/women/accessories/",
+        "children": [
+          {
+            "level3_category": "Socks",
+            "level3_url": "https://www.birkenstock.com/us/women/accessories/socks/"
+          },
+          {
+            "level3_category": "Arch Supports and Insoles",
+            "level3_url": "https://www.birkenstock.com/us/women/accessories/arch-supports-and-insoles/"
+          },
+          {
+            "level3_category": "Shoe care",
+            "level3_url": "https://www.birkenstock.com/us/women/shoe-care/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/women/accessories/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level1_category": "Men",
+    "level1_url": "https://www.birkenstock.com/us/men/",
+    "children": [
+      {
+        "level2_category": "New for Men",
+        "level2_url": "https://www.birkenstock.com/us/men/new-for-men/",
+        "children": [
+          {
+            "level3_category": "Last Chance",
+            "level3_url": "https://www.birkenstock.com/us/trending/last-chance/men/"
+          },
+          {
+            "level3_category": "Run Recovery",
+            "level3_url": "https://www.birkenstock.com/us/campaigns/runners/"
+          },
+          {
+            "level3_category": "Most Wanted: Oiled Leather",
+            "level3_url": "https://www.birkenstock.com/us/most-wanted-oiled-leather/"
+          },
+          {
+            "level3_category": "Suede Styles",
+            "level3_url": "https://www.birkenstock.com/us/suede-styles/"
+          },
+          {
+            "level3_category": "Shop All New Arrivals",
+            "level3_url": "https://www.birkenstock.com/us/men/new-for-men/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Sandals",
+        "level2_url": "https://www.birkenstock.com/us/men/sandals/",
+        "children": [
+          {
+            "level3_category": "Thong",
+            "level3_url": "https://www.birkenstock.com/us/men/sandals/thong/"
+          },
+          {
+            "level3_category": "One-strap",
+            "level3_url": "https://www.birkenstock.com/us/men/sandals/thong/one-strap/"
+          },
+          {
+            "level3_category": "Two-strap",
+            "level3_url": "https://www.birkenstock.com/us/men/sandals/thong/two-strap/"
+          },
+          {
+            "level3_category": "Back-strap",
+            "level3_url": "https://www.birkenstock.com/us/men/sandals/thong/back-strap/"
+          },
+          {
+            "level3_category": "Water-friendly",
+            "level3_url": "https://www.birkenstock.com/us/men/sandals/water-friendly/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/men/sandals/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Shoes",
+        "level2_url": "https://www.birkenstock.com/us/men/shoes/",
+        "children": [
+          {
+            "level3_category": "Clogs",
+            "level3_url": "https://www.birkenstock.com/us/men/shoes/clogs/"
+          },
+          {
+            "level3_category": "Low shoes",
+            "level3_url": "https://www.birkenstock.com/us/men/shoes/low-shoes/"
+          },
+          {
+            "level3_category": "Lace-up shoes",
+            "level3_url": "https://www.birkenstock.com/us/men/shoes/lace-up-shoes/"
+          },
+          {
+            "level3_category": "Sneakers",
+            "level3_url": "https://www.birkenstock.com/us/men/shoes/sneakers/"
+          },
+          {
+            "level3_category": "Boots",
+            "level3_url": "https://www.birkenstock.com/us/men/shoes/boots/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/men/shoes/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Accessories",
+        "level2_url": "https://www.birkenstock.com/us/men/accessories/",
+        "children": [
+          {
+            "level3_category": "Socks",
+            "level3_url": "https://www.birkenstock.com/us/men/accessories/socks/"
+          },
+          {
+            "level3_category": "Arch Supports and Insoles",
+            "level3_url": "https://www.birkenstock.com/us/men/accessories/arch-supports-and-insoles/"
+          },
+          {
+            "level3_category": "Shoe care",
+            "level3_url": "https://www.birkenstock.com/us/men/shoe-care/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/men/accessories/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level1_category": "Kids & Teens",
+    "level1_url": "https://www.birkenstock.com/us/kids/",
+    "children": [
+      {
+        "level2_category": "New for Kids",
+        "level2_url": "https://www.birkenstock.com/us/kids-teens/new-for-kids/",
+        "children": [
+          {
+            "level3_category": "Mommy & Me",
+            "level3_url": "https://www.birkenstock.com/us/campaign/mommy-me/"
+          },
+          {
+            "level3_category": "Shop All New Arrivals",
+            "level3_url": "https://www.birkenstock.com/us/kids-teens/new-for-kids/"
+          },
+          {
+            "level3_category": "Back to School",
+            "level3_url": "https://www.birkenstock.com/us/campaign/back-to-school/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Little Kids",
+        "level2_url": "https://www.birkenstock.com/us/little-kids/",
+        "children": [
+          {
+            "level3_category": "Sandals",
+            "level3_url": "https://www.birkenstock.com/us/little-kids/sandals/"
+          },
+          {
+            "level3_category": "Back-Strap",
+            "level3_url": "https://www.birkenstock.com/us/little-kids/back-strap/"
+          },
+          {
+            "level3_category": "Two-Strap",
+            "level3_url": "https://www.birkenstock.com/us/litte-kids/two-strap/"
+          },
+          {
+            "level3_category": "Water-Friendly",
+            "level3_url": "https://www.birkenstock.com/us/little-kids/water-friendly/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/little-kids/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Big Kids",
+        "level2_url": "https://www.birkenstock.com/us/big-kids/",
+        "children": [
+          {
+            "level3_category": "Sandals",
+            "level3_url": "https://www.birkenstock.com/us/big-kids/sandals/"
+          },
+          {
+            "level3_category": "Back-Strap",
+            "level3_url": "https://www.birkenstock.com/us/big-kids/back-strap/"
+          },
+          {
+            "level3_category": "Two-Strap",
+            "level3_url": "https://www.birkenstock.com/us/big-kids/two-strap/"
+          },
+          {
+            "level3_category": "Water-Friendly",
+            "level3_url": "https://www.birkenstock.com/us/big-kids/water-friendly/"
+          },
+          {
+            "level3_category": "Shoes",
+            "level3_url": "https://www.birkenstock.com/us/big-kids/shoes/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/kids-teens/big-kids/shop-all/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Teens",
+        "level2_url": "https://www.birkenstock.com/us/teens/",
+        "children": [
+          {
+            "level3_category": "Sandals",
+            "level3_url": "https://www.birkenstock.com/us/teens/sandals/"
+          },
+          {
+            "level3_category": "Clogs",
+            "level3_url": "https://www.birkenstock.com/us/teens/clogs/"
+          },
+          {
+            "level3_category": "Water-Friendly",
+            "level3_url": "https://www.birkenstock.com/us/teens/water-friendly/"
+          },
+          {
+            "level3_category": "Shop All",
+            "level3_url": "https://www.birkenstock.com/us/teens/shop-all/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Girls Sandals",
+        "level2_url": "https://www.birkenstock.com/us/kids/girls-sandals/",
+        "children": []
+      },
+      {
+        "level2_category": "Boys Sandals",
+        "level2_url": "https://www.birkenstock.com/us/kids/boys-sandals/",
+        "children": []
+      }
+    ]
+  },
+  {
+    "level1_category": "Professional",
+    "level1_url": "https://www.birkenstock.com/us/professional/",
+    "children": [
+      {
+        "level2_category": "Professions",
+        "level2_url": "https://www.birkenstock.com/us/professional/professions/",
+        "children": [
+          {
+            "level3_category": "Healthcare",
+            "level3_url": "https://www.birkenstock.com/us/professional/professions/healthcare/"
+          },
+          {
+            "level3_category": "Hospitality",
+            "level3_url": "https://www.birkenstock.com/us/professional/professions/hospitality/"
+          },
+          {
+            "level3_category": "Utility",
+            "level3_url": "https://www.birkenstock.com/us/professional/professions/utility/"
+          },
+          {
+            "level3_category": "Shop all Professional",
+            "level3_url": "https://www.birkenstock.com/us/professional/professions/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Features",
+        "level2_url": "https://www.birkenstock.com/us/professional/features/",
+        "children": [
+          {
+            "level3_category": "Slip Resistant",
+            "level3_url": "https://www.birkenstock.com/us/professional/features/slip-resistant/"
+          },
+          {
+            "level3_category": "Fluid Resistant",
+            "level3_url": "https://www.birkenstock.com/us/professional/features/fluid-resistant/"
+          },
+          {
+            "level3_category": "Contoured Comfort",
+            "level3_url": "https://www.birkenstock.com/us/professional/features/contoured-comfort/"
+          },
+          {
+            "level3_category": "Shop all Professional",
+            "level3_url": "https://www.birkenstock.com/us/professional/features/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level1_category": "Journal",
+    "level1_url": "https://www.birkenstock.com/us/journal/",
+    "children": [
+      {
+        "level2_category": "Function",
+        "level2_url": "https://www.birkenstock.com/us/journal/function/",
+        "children": [
+          {
+            "level3_category": "The footbed",
+            "level3_url": "https://www.birkenstock.com/us/journal/function/footbed/"
+          },
+          {
+            "level3_category": "Walking",
+            "level3_url": "https://www.birkenstock.com/us/journal/function/walking/"
+          },
+          {
+            "level3_category": "Children`s feet",
+            "level3_url": "https://www.birkenstock.com/us/journal/function/children%60s-feet/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Quality",
+        "level2_url": "https://www.birkenstock.com/us/journal/quality/",
+        "children": [
+          {
+            "level3_category": "From cork to sandal",
+            "level3_url": "https://www.birkenstock.com/us/journal/quality/from-cork-to-sandal/"
+          },
+          {
+            "level3_category": "50 Hands",
+            "level3_url": "https://www.birkenstock.com/us/journal/quality/50-hands/"
+          },
+          {
+            "level3_category": "Materials",
+            "level3_url": "https://www.birkenstock.com/us/education/materials/"
+          },
+          {
+            "level3_category": "Sustainability",
+            "level3_url": "https://www.birkenstock.com/us/education/our-commitment/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Heritage",
+        "level2_url": "https://www.birkenstock.com/us/journal/heritage/",
+        "children": [
+          {
+            "level3_category": "Birkenstock history & timeline",
+            "level3_url": "https://www.birkenstock.com/us/journal/heritage/"
+          }
+        ]
+      },
+      {
+        "level2_category": "News",
+        "level2_url": "https://www.birkenstock.com/us/journal/news/",
+        "children": [
+          {
+            "level3_category": "BIRKENSTOCK #BOLD",
+            "level3_url": "https://www.birkenstock.com/us/campaign-bold-3/"
+          },
+          {
+            "level3_category": "Birkenstock x NYC",
+            "level3_url": "https://www.birkenstock.com/us/birkenstock-x-nyc/"
+          },
+          {
+            "level3_category": "Ugly for a Reason",
+            "level3_url": "https://www.birkenstock.com/us/ugly-for-a-reason/"
+          },
+          {
+            "level3_category": "Marin County, CA",
+            "level3_url": "https://www.birkenstock.com/us/magazine/marin-store/"
+          },
+          {
+            "level3_category": "Brooklyn, NY",
+            "level3_url": "https://www.birkenstock.com/us/magazine/brooklyn-store/"
+          },
+          {
+            "level3_category": "Miami, FL",
+            "level3_url": "https://www.birkenstock.com/us/magazine/miami-store/"
+          },
+          {
+            "level3_category": "Austin, TX",
+            "level3_url": "https://www.birkenstock.com/us/magazine/austin-store/"
+          },
+          {
+            "level3_category": "Houston, TX",
+            "level3_url": "https://www.birkenstock.com/us/magazine/houston-store/"
+          }
+        ]
+      },
+      {
+        "level2_category": "People",
+        "level2_url": "https://www.birkenstock.com/us/journal/people/",
+        "children": [
+          {
+            "level3_category": "Seb Redgrove",
+            "level3_url": "https://www.birkenstock.com/us/grounded/seb-redgrove/"
+          },
+          {
+            "level3_category": "Keith Brymer Jones",
+            "level3_url": "https://www.birkenstock.com/us/grounded/keith-brymer-jones/"
+          },
+          {
+            "level3_category": "Lael Wilcox",
+            "level3_url": "https://www.birkenstock.com/us/journal/people/lael-wilcox/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Birkenstories",
+        "level2_url": "https://www.birkenstock.com/us/magazine/birkenstories/",
+        "children": [
+          {
+            "level3_category": "Jean-Victor Mackie",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/jean-victor-mackie/"
+          },
+          {
+            "level3_category": "Shelly Glasgow",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/shelly-glasgow/"
+          },
+          {
+            "level3_category": "Erin Johnstone",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/erin-johnstone/"
+          },
+          {
+            "level3_category": "Leonardo Padura",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/leonardo-padura/"
+          },
+          {
+            "level3_category": "Apollonia Poilane",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/apollonia-poilane/"
+          },
+          {
+            "level3_category": "Melinda Gabriel",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/melinda-gabriel/"
+          },
+          {
+            "level3_category": "Krüger Brothers",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/kruger-brothers/"
+          },
+          {
+            "level3_category": "Bettine Vriesekoop",
+            "level3_url": "https://www.birkenstock.com/us/birkenstories/bettine-vriesekoop/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level1_category": "Foot & Body care",
+    "level1_url": "https://www.birkenstock.com/us/foot-care/",
+    "children": [
+      {
+        "level2_category": "All products",
+        "level2_url": "https://www.birkenstock.com/us/foot-care/all-products/",
+        "children": [
+          {
+            "level3_category": "Body care",
+            "level3_url": "https://www.birkenstock.com/us/care-essentials/all-products/body-care/"
+          },
+          {
+            "level3_category": "Foot care",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/all-products/foot-care/"
+          },
+          {
+            "level3_category": "Kits",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/all-products/kits/"
+          }
+        ]
+      },
+      {
+        "level2_category": "Our Philosophy",
+        "level2_url": "https://www.birkenstock.com/us/foot-care/our-philosophy/",
+        "children": [
+          {
+            "level3_category": "About us",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/our-philosophy/about-us/"
+          },
+          {
+            "level3_category": "FAQ",
+            "level3_url": "https://www.birkenstock.com/us/faq-main"
+          }
+        ]
+      },
+      {
+        "level2_category": "Our Commitments",
+        "level2_url": "https://www.birkenstock.com/us/foot-care/our-philosophy/commitments/",
+        "children": [
+          {
+            "level3_category": "Cosmos certification",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/our-philosophy/cosmos-certification/"
+          },
+          {
+            "level3_category": "Packaging & production",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/our-philosophy/packaging/"
+          },
+          {
+            "level3_category": "Ingredient Glossary",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/our-philosophy/ingredients-glossary/"
+          }
+        ]
+      },
+      {
+        "level2_category": "The care journal",
+        "level2_url": "https://www.birkenstock.com/us/foot-care/the-care-journal/",
+        "children": [
+          {
+            "level3_category": "Find all blog articles",
+            "level3_url": "https://www.birkenstock.com/us/foot-care/the-care-journal/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level1_category": "1774",
+    "level1_url": "https://www.birkenstock.com/us/1774/",
+    "children": []
+  },
+  {
+    "level1_category": "Member Access",
+    "level1_url": "https://www.birkenstock.com/us/member-access/",
+    "children": []
+  },
+  {
+    "level1_category": "250 Years",
+    "level1_url": "https://www.birkenstock.com/us/250-years/",
+    "children": []
+  }
+]

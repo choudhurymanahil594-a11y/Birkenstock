@@ -1,0 +1,54 @@
+[
+    {
+        "level1_category": "What's New",
+        "level1_url": "https://www.birkenstock.com/us/what's-new/",
+        "level2_category": "The Latest",
+        "level2_url": "https://www.birkenstock.com/us/campaign/the-latest/",
+        "level3_category": "Fall Collection",
+        "level3_url": "https://www.birkenstock.com/us/campaign/fall-collection/",
+        "product_urls": [
+            "https://www.birkenstock.com/us/lutry-premium-suede-leather/lutrypremiumsuede-premiumhomesuede-suedeleather-0-rubber-u_11934.html"
+        ],
+        "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.birkenstock.com/us/lutry-premium-suede-leather/lutrypremiumsuede-premiumhomesuede-suedeleather-0-rubber-u_11934.html\nCall log:\n\u001b[2m  - navigating to \"https://www.birkenstock.com/us/lutry-premium-suede-leather/lutrypremiumsuede-premiumhomesuede-suedeleather-0-rubber-u_11934.html\", waiting until \"load\"\u001b[22m\n",
+        "timestamp": "2025-08-27T05:21:31.637Z"
+    },
+    {
+        "level1_category": "What's New",
+        "level1_url": "https://www.birkenstock.com/us/what's-new/",
+        "level2_category": "The Latest",
+        "level2_url": "https://www.birkenstock.com/us/campaign/the-latest/",
+        "level3_category": "Fall Collection",
+        "level3_url": "https://www.birkenstock.com/us/campaign/fall-collection/",
+        "product_urls": [
+            "https://www.birkenstock.com/us/arizona-big-buckle-nubuk-leather/arizonabigbuckle-nubuk-nubuckleather-0-eva-w_02904.html"
+        ],
+        "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.birkenstock.com/us/arizona-big-buckle-nubuk-leather/arizonabigbuckle-nubuk-nubuckleather-0-eva-w_02904.html\nCall log:\n\u001b[2m  - navigating to \"https://www.birkenstock.com/us/arizona-big-buckle-nubuk-leather/arizonabigbuckle-nubuk-nubuckleather-0-eva-w_02904.html\", waiting until \"load\"\u001b[22m\n",
+        "timestamp": "2025-08-27T05:21:31.804Z"
+    },
+    {
+        "level1_category": "What's New",
+        "level1_url": "https://www.birkenstock.com/us/what's-new/",
+        "level2_category": "The Latest",
+        "level2_url": "https://www.birkenstock.com/us/campaign/the-latest/",
+        "level3_category": "Fall Collection",
+        "level3_url": "https://www.birkenstock.com/us/campaign/fall-collection/",
+        "product_urls": [
+            "https://www.birkenstock.com/us/boston-crosstown-waxy-leather/bostonct-articold-waxyleather-274700-puthermoplasticpu-m_5997.html"
+        ],
+        "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.birkenstock.com/us/boston-crosstown-waxy-leather/bostonct-articold-waxyleather-274700-puthermoplasticpu-m_5997.html\nCall log:\n\u001b[2m  - navigating to \"https://www.birkenstock.com/us/boston-crosstown-waxy-leather/bostonct-articold-waxyleather-274700-puthermoplasticpu-m_5997.html\", waiting until \"load\"\u001b[22m\n",
+        "timestamp": "2025-08-27T05:33:31.570Z"
+    },
+    {
+        "level1_category": "What's New",
+        "level1_url": "https://www.birkenstock.com/us/what's-new/",
+        "level2_category": "The Latest",
+        "level2_url": "https://www.birkenstock.com/us/campaign/the-latest/",
+        "level3_category": "Fall Collection",
+        "level3_url": "https://www.birkenstock.com/us/campaign/fall-collection/",
+        "product_urls": [
+            "https://www.birkenstock.com/us/uppsala-shearling-natural-leather/uppsalashearling-leather-naturalleather-0-thermorubber-w_254.html"
+        ],
+        "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.birkenstock.com/us/uppsala-shearling-natural-leather/uppsalashearling-leather-naturalleather-0-thermorubber-w_254.html\nCall log:\n\u001b[2m  - navigating to \"https://www.birkenstock.com/us/uppsala-shearling-natural-leather/uppsalashearling-leather-naturalleather-0-thermorubber-w_254.html\", waiting until \"load\"\u001b[22m\n",
+        "timestamp": "2025-08-27T05:33:32.484Z"
+    }
+]

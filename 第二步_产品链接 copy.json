@@ -1,0 +1,24 @@
+[
+    {
+        "level1_category": "What's New",
+        "level1_url": "https://www.birkenstock.com/us/new-arrivals/",
+        "level2_category": "The Latest",
+        "level2_url": "https://www.birkenstock.com/us/campaign/new-arrivals/",
+        "level3_category": "Back to School",
+        "level3_url": "https://www.birkenstock.com/us/campaign/back-to-school/",
+        "product_urls": [
+            "https://www.birkenstock.com/us/boston-soft-footbed-suede-leather/boston-suede-suedeleather-softfootbed-eva-u_46.html",
+            "https://www.birkenstock.com/us/arizona-birko-flor-birkibuc/arizona-core-birkoflornubuck-0-eva-u_650.html",
+            "https://www.birkenstock.com/us/boston-soft-footbed-suede-leather/boston-suede-suedeleather-softfootbed-eva-u_49.html",
+            "https://www.birkenstock.com/us/boston-soft-footbed-suede-leather/boston-suede-suedeleather-softfootbed-eva-u_90.html",
+            "https://www.birkenstock.com/us/arizona-eva/arizona-eva-eva-0-eva-u_3716.html",
+            "https://www.birkenstock.com/us/arizona-soft-footbed-natural-leather-oiled/arizona-core-oiledleather-softfootbed-eva-u_5326.html",
+            "https://www.birkenstock.com/us/arizona-birko-flor-birkibuc/arizona-core-birkoflornubuck-0-eva-u_328.html",
+            "https://www.birkenstock.com/us/boston-natural-leather-oiled/boston-core-oiledleather-0-eva-u_5326.html",
+            "https://www.birkenstock.com/us/boston-natural-leather-oiled/boston-core-oiledleather-0-eva-u_7888.html",
+            "https://www.birkenstock.com/us/arizona-soft-footbed-natural-leather-oiled/arizona-core-oiledleather-softfootbed-eva-u_7888.html",
+            "https://www.birkenstock.com/us/arizona-natural-leather-oiled/arizona-core-oiledleather-0-eva-u_5326.html",
+            "https://www.birkenstock.com/us/kyoto-shearling-suede-leather%2Ffur/kyotoshearling-shearling-suedeleather-0-eva-u_491.html"
+        ]
+    }
+]
